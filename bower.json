@@ -3,13 +3,21 @@
   "version": "4.1.2",
   "main": "./pureweb.min.js",
   "keywords": [
-	"Calgary Scientific",
-	"PureWeb",
-    "Remote imaging",
-    "View remoting"
+    "Calgary",
+    "Scientific",
+    "PureWeb",
+    "Remote",
+    "imaging",
+    "View",
+    "remoting"
   ],
   "authors": [
-  { "name": "Calgary Scientific", "homepage": "http://www.calgaryscientific.com/pureweb/" }
-]
-  "dependencies": {}
+    "Calgary Scientific Inc. (http://www.calgaryscientific.com)"
+  ],
+  "description": "PureWeb JavaScript image remoting SDK",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "See LICENSE FILE",
+  "homepage": "http://www.calgaryscientific.com/pureweb"
 }
