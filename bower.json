@@ -8,5 +8,8 @@
     "Remote imaging",
     "View remoting"
   ],
+  "authors": [
+  { "name": "Calgary Scientific", "homepage": "http://www.calgaryscientific.com/pureweb/" }
+]
   "dependencies": {}
 }
