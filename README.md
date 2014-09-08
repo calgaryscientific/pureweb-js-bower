@@ -7,7 +7,7 @@ This is the Bower distribution repo for the PureWeb HTML5 SDK.
 
 ```bower install pureweb```
 
-or add a dependency for "pureweb":"<semver>" to the bower.json file in your project (where semver is the semantic version of PureWeb you want to install)
+or add a dependency for "pureweb":"SEMVER" to the bower.json file in your project (where SEMVER is the semantic version of PureWeb you want to install)
 
 # PureWeb
 
