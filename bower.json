@@ -1,6 +1,6 @@
 {
   "name": "pureweb-js-sdk",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "main": ["./pureweb.min.js", "./pureweb.h264.min.js"],
   "keywords": [
     "Calgary",
